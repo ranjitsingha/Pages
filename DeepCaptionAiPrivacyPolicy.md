@@ -10,7 +10,7 @@ Deep Caption AI ("we," "our," or "us") is committed to protecting your privacy. 
 
 We collect the following types of information from you when you use the App:
 
-- **Personal Information**: When you sign in to the App using Google Sign-In, we collect your **name** and **email address**.
+- **Personal Information**: When you sign in to the App using Google Sign-In, we collect your **name** and **email address and **Google Account Profile Picture"**.
 - **App Usage Data**: We collect **app crash logs** to monitor and improve the App's performance and stability.
 - **User Content**: When you upload a video to the App, we temporarily process the video to generate captions. The video is shared with a third-party transcription service, but we do not store it on our servers after transcription is complete.
 
